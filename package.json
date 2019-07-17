@@ -1,0 +1,25 @@
+{
+  "name": "my-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "4.13.9",
+    "restify": "6.3.4",
+    "restify-errors": "5.0.0",
+    "restify-jwt-community": "^1.0.9"
+  },
+  "devDependencies": {
+    "@types/jsonwebtoken": "7.2.5",
+    "@types/mongoose": "4.7.32",
+    "@types/restify": "7.2.7",
+    "@types/restify-errors": "4.3.2"
+  }
+}
